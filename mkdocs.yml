@@ -1,0 +1,50 @@
+site_name: MOA Wiki
+site_description: Practitioner Guide per il MOA – Agentic Operating Model
+site_url: https://luigiapp.github.io/MOA-WIKI/
+repo_url: https://github.com/LuigiApp/MOA-WIKI
+repo_name: LuigiApp/MOA-WIKI
+
+nav:
+  - "01 – Preparazione": 01-preparazione.md
+  - "02 – Demand Generation": 02-demand-generation.md
+  - "03 – Use Case Pipeline": 03-use-case-pipeline.md
+  - "04 – MOA Scoring": 04-moa-scoring.md
+  - "05 – Activation": 05-activation.md
+  - "06 – Value Realization": 06-value-realization.md
+  - "07 – Decision Rights": 07-decision-rights.md
+  - "08 – Governance & Controls": 08-governance-controls.md
+  - "09 – AI Risk Gate": 09-ai-risk-gate.md
+  - "10 – Development Readiness": 10-development-readiness.md
+  - "11 – Control Tower": 11-control-tower.md
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passa al tema scuro
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passa al tema chiaro
+plugins:
+  - search:
+      lang: it
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
