@@ -5,6 +5,7 @@ repo_url: https://github.com/LuigiApp/MOA-WIKI
 repo_name: LuigiApp/MOA-WIKI
 
 nav:
+  - "Home / Scopo": index.md
   - "01 – Preparazione": 01-preparazione.md
   - "02 – Demand Generation": 02-demand-generation.md
   - "03 – Use Case Pipeline": 03-use-case-pipeline.md
