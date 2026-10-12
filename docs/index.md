@@ -1,4 +1,6 @@
 # MOA Wiki – Practitioner Guide
+Versione V1 — 9 ottobre 2026    
+
 
 ## Scopo
 
@@ -19,11 +21,9 @@ Questo Wiki forma i **MOA Practitioner** nell'utilizzo operativo del framework M
 4. [MOA Scoring](04-moa-scoring.md)
 5. [Activation](05-activation.md)
 6. [Value Realization](06-value-realization.md)
-7. [Decision Rights](07-decision-rights.md)
-8. [Governance & Controls](08-governance-controls.md)
-9. [AI Risk Gate](09-ai-risk-gate.md)
-10. [Development Readiness](10-development-readiness.md)
-11. [Control Tower](11-control-tower.md)
+7. [Governance & Controls](08-governance-controls.md)
+8. [Process Risk Gate](09-ai-risk-gate.md)
+9. [MOA Control Tower](11-control-tower.md)
 
 Ogni pagina contiene obiettivo, input, attività, campi da compilare, significato dei campi, esempi, output atteso e controlli di qualità.
 
