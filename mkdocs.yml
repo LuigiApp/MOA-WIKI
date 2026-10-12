@@ -1,8 +1,6 @@
 site_name: MOA Wiki
 site_description: Practitioner Guide per il MOA – Agentic Operating Model
 site_url: https://luigiapp.github.io/MOA-WIKI/
-repo_url: https://github.com/LuigiApp/MOA-WIKI
-repo_name: LuigiApp/MOA-WIKI
 
 nav:
   - "Home / Scopo": index.md
