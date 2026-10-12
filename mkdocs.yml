@@ -10,9 +10,9 @@ nav:
   - "04 – MOA Scoring": 04-moa-scoring.md
   - "05 – Activation": 05-activation.md
   - "06 – Value Realization": 06-value-realization.md
-  - "08 – Governance & Controls": 08-governance-controls.md
-  - "09 – AI Risk Gate": 09-ai-risk-gate.md
-  - "11 – Control Tower": 11-control-tower.md
+  - "07 – Governance & Controls": 07-governance-controls.md
+  - "08 – AI Risk Gate": 08-ai-risk-gate.md
+  - "09 – Control Tower": 09-control-tower.md
 
 theme:
   name: material
