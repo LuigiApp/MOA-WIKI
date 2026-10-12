@@ -15,6 +15,8 @@ Valutare ogni use case con criteri omogenei e generare una priorità comparabile
 | Strategic Fit | Coerenza con strategia cliente. | È coerente con le priorità? | Allineamento strategico, roadmap IT/data, scalabilità. |
 | Adoption & Capability | Prontezza organizzativa. | L'organizzazione è pronta? | Sponsor, utenti, maturità digitale, change, competenze. |
 
+I punteggi derivano dal MOA Workshop Canvas, che fornisce le domande guida per ciascuna dimensione.
+
 ## Scala comune 1–5
 
 **Formula MOA Priority Score**
@@ -35,5 +37,9 @@ Business Value × 5 + Pain Severity × 3 + Data Readiness × 4 + Feasibility / T
 - Quick Win Score.
 - Strategic Value Score.
 - Classe / Decisione.
+- MOA Matrix: confronto tra Quick Win Score, sull’asse verticale, e Strategic Value Score, sull’asse orizzontale.
 
 **Controllo chiave.** Gli score devono essere motivati e validati con Business e IT, non assegnati solo per percezione.
+Nel Calculator: foglio MOA Scoring Calculator. I punteggi si inseriscono nelle colonne M–R; le colonne S–V e il foglio MOA Matrix si aggiornano automaticamente.
+
+
