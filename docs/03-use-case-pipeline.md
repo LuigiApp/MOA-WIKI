@@ -20,6 +20,8 @@ Trasformare le opportunità raccolte in use case strutturati, confrontabili e va
 | Tipo di valore | Tipologia di beneficio atteso. | Efficienza, Ricavi, Customer Experience |
 | Dati necessari | Fonti dati necessarie. | CRM, ERP, storico ordini, ticket, listini |
 
+Nel Calculator: foglio MOA Scoring Calculator, colonne A–L. Pain point, tipo di valore, disponibilità dei dati, tempi e strategic fit si selezionano dai menu a tendina, alimentati dal foglio Elenchi.
+
 ## Controlli di qualità
 
 - Nome chiaro e non generico.
