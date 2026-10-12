@@ -1,40 +1,31 @@
-# 09 – AI Risk Gate
+# 09 – Process Risk Gate
 
 ## Obiettivo della fase
 
-Classificare ogni agente in funzione del rischio e definire il livello minimo di controllo richiesto.
+Classificare ogni agente in funzione del rischio che introduce nel processo e definire il livello minimo di controllo richiesto.
 
 **Domanda guida.** Se questo agente sbaglia, cosa può succedere?
+La Risk Class indica dove approfondire. Non sostituisce le valutazioni normative, che restano in capo al cliente.
 
-| Dimensione | Significato | Esempi |
-| --- | --- | --- |
-| Data Risk | Sensibilità dei dati utilizzati. | Low: pubblici; Medium: interni; High: clienti/personali/finanziari |
-| Decision Risk | Quanto influenza le decisioni. | Informa, suggerisce, propone azioni, decide |
-| Business Impact Risk | Impatto di un errore. | Perdita tempo, inefficienza, perdita economica |
-| Autonomy Risk | Livello di autonomia. | 0 legge, 1 suggerisce, 2 esegue con approvazione, 3 autonomo |
-| Adoption Risk | Impatto sul modo di lavorare. | Supporto individuale, nuovo processo team, trasformazione processo |
+## Criteri di punteggio
+Ogni dimensione si valuta su una scala da 1 a 5, dove 1 indica un rischio basso e 5 un rischio alto.
+
+| Dimensione | Cosa Misura | 1| 5 |
+| --- | --- | --- | --- |
+| Data Risk | Sensibilità dei dati utilizzati dall'agente | Dati non sensibili e affidabili, accessibili solo a utenti già autorizzati | Dati personali o riservati, di affidabilità incerta, con regole di accesso ancora da definire |
+| Decision Risk | Peso delle decisioni su cui l'agente incide | Decisioni di routine, facilmente correggibili, con effetti solo interni | Decisioni difficilmente reversibili, con effetti su clienti, fornitori o dati contabili |
+| Business Impact Risk | Impatto in caso di errore dell'agente | Un errore comporta una perdita di tempo limitata per pochi utenti | Un errore causa perdite economiche, fermi operativi o danni ai clienti |
+| Autonomy Risk | Grado di autonomia dell'agente rispetto al controllo umano   | L'agente consulta i dati e formula proposte; ogni azione è approvata da una persona | L'agente esegue azioni sui sistemi in autonomia, senza approvazione preventiva |
+| Adoption Risk | Grado di cambiamento introdotto nel modo di lavorare | Supporto al singolo utente; il processo resta sostanzialmente invariato | Processo trasformato per un intero team; sono necessari formazione e change management |
 
 ## Risk Class
 
-| Classe | Significato | Controllo richiesto |
-| --- | --- | --- |
-| Green | Basso rischio | Controlli standard |
-| Yellow | Rischio medio | Validazione IT Owner |
-| Orange | Rischio elevato | Approvazione Steering AI |
-| Red | Rischio critico | Governance dedicata e monitoraggio continuo |
+| Classe | Significato |
+| --- | --- |
+| Green | Basso rischio |
+| Yellow | Rischio medio |
+| Orange | Rischio elevato |
+| Red | Rischio critico |
 
-## Esempio – Visit Preparation Agent
+Nel Calculator: foglio Process Risk Gate. A partire dai 5 punteggi, il foglio calcola Risk Score e Risk Class.
 
-| Dimensione | Valutazione | Motivazione |
-| --- | --- | --- |
-| Data Risk | Medium | Usa CRM, storico visite e informazioni cliente. |
-| Decision Risk | Low | Supporta il commerciale, non decide. |
-| Business Impact Risk | Medium | Output errato può ridurre efficacia visita. |
-| Autonomy Risk | Low | Propone informazioni, utente decide. |
-| Adoption Risk | Medium | Cambia il processo di preparazione visita. |
-
-Risk Class suggerita: Yellow – Medium Risk
-
-## Riferimento al Calculator
-
-Nel foglio AI Risk Gate ogni use case occupa una riga.Le dimensioni di rischio vengono valutate attraverso Data Risk, Decision Risk, Business Impact Risk,Autonomy Risk e Adoption Risk.Il Risk Score e la Risk Class vengono calcolati e utilizzati dalle successive attività di Governance & Controls.
