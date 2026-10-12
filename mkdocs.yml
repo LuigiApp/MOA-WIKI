@@ -12,10 +12,8 @@ nav:
   - "04 – MOA Scoring": 04-moa-scoring.md
   - "05 – Activation": 05-activation.md
   - "06 – Value Realization": 06-value-realization.md
-  - "07 – Decision Rights": 07-decision-rights.md
   - "08 – Governance & Controls": 08-governance-controls.md
   - "09 – AI Risk Gate": 09-ai-risk-gate.md
-  - "10 – Development Readiness": 10-development-readiness.md
   - "11 – Control Tower": 11-control-tower.md
 
 theme:
