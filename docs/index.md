@@ -21,9 +21,9 @@ Questo Wiki forma i **MOA Practitioner** nell'utilizzo operativo del framework M
 4. [MOA Scoring](04-moa-scoring.md)
 5. [Activation](05-activation.md)
 6. [Value Realization](06-value-realization.md)
-7. [Governance & Controls](07-governance-controls.md)
-8. [Process Risk Gate](08-ai-risk-gate.md)
-9. [MOA Control Tower](09-control-tower.md)
+7. [Governance & Controls](08-governance-controls.md)
+8. [Process Risk Gate](09-ai-risk-gate.md)
+9. [MOA Control Tower](11-control-tower.md)
 
 Ogni pagina contiene obiettivo, input, attività, campi da compilare, significato dei campi, esempi, output atteso e controlli di qualità.
 
@@ -36,13 +36,12 @@ Il Wiki descrive tutte le fasi del metodo. Non tutte le fasi dispongono di un fo
 
 | **Fase** | **Strumento di riferimento** |
 |---|---|
-| 01 Preparazione |	Portfolio Maturity Check: file dedicato. Company Context Sheet: non previsto nel Calculator. |
-| 02 Demand Generation |	AI Opportunity Backlog: non previsto nel Calculator. |
-| 03 Use Case Pipeline |	Foglio MOA Scoring Calculator, colonne A–L |
-| 04 MOA Scoring |	Foglio MOA Scoring Calculator, colonne M–V; foglio MOA Matrix |
-| 05 Activation |	Foglio MOA Scoring Calculator, colonna V; foglio Value Realization per l’indicazione dei responsabili |
-| 06 Value Realization |	Foglio Value Realization |
-| 07 Governance & Controls |	Foglio Governance & Controls |
-| 08 Process Risk Gate |	Foglio Process Risk Gate |
-| 09 MOA Control Tower |	Fogli Agent Lifecycle e Control Tower Cockpit |
-
+| 01 Preparazione | Portfolio Maturity Check: file dedicato. Company Context Sheet: non previsto nel Calculator. |
+| 02 Demand Generation | AI Opportunity Backlog: non previsto nel Calculator. |
+| 03 Use Case Pipeline | Foglio MOA Scoring Calculator, colonne A–L |
+| 04 MOA Scoring | Foglio MOA Scoring Calculator, colonne M–V; foglio MOA Matrix |
+| 05 Activation | Foglio MOA Scoring Calculator, colonna V; foglio Value Realization per l’indicazione dei responsabili |
+| 06 Value Realization | Foglio Value Realization |
+| 07 Governance & Controls | Foglio Governance & Controls |
+| 08 Process Risk Gate | Foglio Process Risk Gate |
+| 09 MOA Control Tower | Fogli Agent Lifecycle e Control Tower Cockpit |
