@@ -4,6 +4,20 @@
 
 Comprendere il contesto aziendale prima di iniziare il percorso MOA. La fase risponde a: contesto organizzativo, priorità strategiche, sistemi e dati disponibili, stakeholder, sponsor e decision maker.
 
+## Portfolio Maturity Check
+Autovalutazione compilata dal cliente, composta da 18 domande su 6 dimensioni: 
+- Strategy & Sponsorship,
+- Demand & Use Case Management,
+- Portfolio Prioritization,
+- Delivery & Adoption,
+- Value Realization,
+- Governance & Risk.
+
+Ogni domanda prevede una scala da 1 a 5.
+Il risultato indica il livello di maturità del cliente, da Exploration ad Agentic Operating Model, la dimensione più debole e il passo successivo consigliato.
+Si utilizza all'avvio del percorso, per comprendere il punto di partenza del cliente e le aree che richiedono maggiore supporto. Ripetuto a distanza di alcuni mesi, consente di misurare i progressi.
+
+
 ## Input necessari
 
 - Organigramma o mappa funzioni aziendali.
@@ -11,6 +25,7 @@ Comprendere il contesto aziendale prima di iniziare il percorso MOA. La fase ris
 - Informazioni su iniziative AI già avviate.
 - Contatti stakeholder principali.
 - Materiali strategici, roadmap IT, presentazioni o documenti di programma.
+- Portfolio Maturity Check compilato 
 
 ## Campi da compilare
 
@@ -30,6 +45,7 @@ Comprendere il contesto aziendale prima di iniziare il percorso MOA. La fase ris
 - Stakeholder Map.
 - Technology Landscape.
 - Prima ipotesi di governance.
+- Livello di maturità dal Portfolio Maturity Check.
 
 ## Controlli di qualità
 
