@@ -4,21 +4,31 @@ site_url: https://luigiapp.github.io/MOA-WIKI/
 
 nav:
   - "Home / Scopo": index.md
-  - "01 – Preparazione": 01-preparazione.md
-  - "02 – Demand Generation": 02-demand-generation.md
-  - "03 – Use Case Pipeline": 03-use-case-pipeline.md
-  - "04 – MOA Scoring": 04-moa-scoring.md
-  - "05 – Activation": 05-activation.md
-  - "06 – Value Realization": 06-value-realization.md
-  - "07 – Governance & Controls": 07-governance-controls.md
-  - "08 – AI Risk Gate": 08-ai-risk-gate.md
-  - "09 – Control Tower": 09-control-tower.md
+  - "Fase preliminare":
+      - fase-preliminare.md
+      - "01 – Preparazione": 01-preparazione.md
+  - "MOA Portfolio":
+      - moa-portfolio.md
+      - "02 – Demand Generation": 02-demand-generation.md
+      - "03 – Use Case Pipeline": 03-use-case-pipeline.md
+      - "04 – MOA Scoring": 04-moa-scoring.md
+      - "05 – Activation": 05-activation.md
+  - "MOA Control Tower":
+      - moa-control-tower.md
+      - "06 – Process Risk Gate": 06-process-risk-gate.md
+      - "07 – Governance & Controls": 07-governance-controls.md
+      - "08 – Value Realization": 08-value-realization.md
+      - "09 – Lifecycle Management": 09-lifecycle-management.md
+      - "10 – Adoption & Capability": 10-adoption-capability.md
+      - "11 – Scaling": 11-scaling.md
+  - "Regole d'oro MOA": regole-doro.md
 
 theme:
   name: material
   language: it
   features:
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
