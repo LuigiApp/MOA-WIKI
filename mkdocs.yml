@@ -5,7 +5,6 @@ site_url: https://luigiapp.github.io/MOA-WIKI/
 nav:
   - "Home / Scopo": index.md
   - "Fase preliminare":
-      - fase-preliminare.md
       - "01 – Preparazione": 01-preparazione.md
   - "MOA Portfolio":
       - moa-portfolio.md
