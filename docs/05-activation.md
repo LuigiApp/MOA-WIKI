@@ -32,4 +32,4 @@ Trasformare uno use case prioritizzato in una iniziativa attivabile.
 - **HOLD:** interessante ma mancano dati, sponsor o misurabilità.
 - **DROP:** valore debole, rischio eccessivo o non allineato.
 
-Nel Calculator: la classe è riportata nella colonna V del foglio MOA Scoring Calculator. Business Sponsor, Product Owner e IT Owner si indicano nel foglio Value Realization.
+**Strumento:** la classe è riportata nella colonna V del foglio MOA Scoring Calculator. Business Sponsor, Product Owner e IT Owner si indicano nel foglio Value Realization.

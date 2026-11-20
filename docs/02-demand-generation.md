@@ -25,6 +25,8 @@ Raccogliere bisogni, problemi e opportunità AI dalle funzioni aziendali. In que
 | Dati citati | Fonti informative menzionate dagli stakeholder. | CRM, ERP, ticket, Power BI |
 | Prima idea AI | Prima ipotesi di supporto AI o agente. | Agente per brief cliente pre-visita |
 
+**Strumento:** AI Opportunity Backlog, documento libero a cura del Practitioner. In questa fase non si usa ancora il Calculator: le opportunità più mature passano alla fase 03 e vengono inserite nel foglio MOA Scoring Calculator.
+
 ## Domande guida
 
 - Dove si perde più tempo?

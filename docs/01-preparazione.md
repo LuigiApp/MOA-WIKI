@@ -25,19 +25,21 @@ Si utilizza all'avvio del percorso, per comprendere il punto di partenza del cli
 - Informazioni su iniziative AI già avviate.
 - Contatti stakeholder principali.
 - Materiali strategici, roadmap IT, presentazioni o documenti di programma.
-- Portfolio Maturity Check compilato 
+- Portfolio Maturity Check compilato dal cliente.
 
 ## Campi da compilare
 
 | Campo | Significato | Esempio |
 | --- | --- | --- |
-| Azienda | Nome dell'organizzazione cliente. | Ferroli |
-| Settore / Industry | Industry utile a contestualizzare processi, metriche e benchmark. | Manufacturing / HVAC |
+| Azienda | Nome dell'organizzazione cliente. | Cyberdine S.p.A. |
+| Settore / Industry | Industry utile a contestualizzare processi, metriche e benchmark. | Manufacturing / Sensoristica industriale e IoT |
 | Funzioni coinvolte | Aree da coinvolgere nel percorso MOA. | Sales, Service, Finance, Procurement, IT |
 | Referente principale | Persona che coordina il percorso lato cliente. | CIO, Digital Innovation Manager |
 | Sponsor programma AI | Figura executive che legittima e sostiene il percorso. | CEO, CFO, CIO |
 | Sistemi principali | Piattaforme che possono contenere dati utili agli agenti. | ERP, CRM, Fabric, SharePoint, Power BI |
 | Iniziative AI già presenti | Progetti, POC, agenti o strumenti AI già attivi o sperimentati. | M365 Copilot, AI Lab, agenti Copilot Studio |
+
+**Strumento:** Portfolio Maturity Check, file dedicato, e Company Context Sheet, documento libero a cura del Practitioner. In questa fase non si usa il Calculator; i controlli di qualità riportati di seguito servono da checklist.
 
 ## Output atteso
 

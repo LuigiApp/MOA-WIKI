@@ -39,7 +39,14 @@ Business Value × 5 + Pain Severity × 3 + Data Readiness × 4 + Feasibility / T
 - Classe / Decisione.
 - MOA Matrix: confronto tra Quick Win Score, sull’asse verticale, e Strategic Value Score, sull’asse orizzontale.
 
+I tre score usano le stesse sei dimensioni, con pesi diversi.
+
+| Score | A cosa serve | Dimensioni con più peso |
+| --- | --- | --- |
+| MOA Priority Score | Priorità complessiva; determina la classe (Wave). | Business Value e Data Readiness |
+| Quick Win Score | Quanto lo use case è rapido e facile da avviare. | Data Readiness e Feasibility / TTV |
+| Strategic Value Score | Quanto lo use case è importante per la strategia. | Strategic Fit e Business Value |
+
 **Controllo chiave.** Gli score devono essere motivati e validati con Business e IT, non assegnati solo per percezione.
-Nel Calculator: foglio MOA Scoring Calculator. I punteggi si inseriscono nelle colonne M–R; le colonne S–V e il foglio MOA Matrix si aggiornano automaticamente.
 
-
+**Strumento:** foglio MOA Scoring Calculator. I punteggi si inseriscono nelle colonne M–R; le colonne S–V e il foglio MOA Matrix si aggiornano automaticamente.

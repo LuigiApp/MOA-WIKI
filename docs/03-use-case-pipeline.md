@@ -12,6 +12,7 @@ Trasformare le opportunità raccolte in use case strutturati, confrontabili e va
 | Nome Use Case | Nome sintetico e comprensibile. | Visit Preparation Agent |
 | Dominio / Cluster | Area funzionale di appartenenza. | Commerciale, Vendite & CRM |
 | Descrizione sintetica | Cosa fa l'agente e quale problema risolve. | Prepara un brief cliente integrando CRM, ordini e credito. |
+| Owner | Referente lato cliente dello use case, da individuare già in questa fase, anche per gestire eventuali approfondimenti. | Direttore Commerciale |
 | Processo coinvolto | Processo aziendale impattato. | Gestione visite commerciali |
 | Attività supportata | Attività specifica in cui l'agente interviene. | Analisi cliente pre-visita |
 | Utenti target | Ruoli che useranno l'agente. | Sales Account, Area Manager |
@@ -20,7 +21,7 @@ Trasformare le opportunità raccolte in use case strutturati, confrontabili e va
 | Tipo di valore | Tipologia di beneficio atteso. | Efficienza, Ricavi, Customer Experience |
 | Dati necessari | Fonti dati necessarie. | CRM, ERP, storico ordini, ticket, listini |
 
-Nel Calculator: foglio MOA Scoring Calculator, colonne A–L. Pain point, tipo di valore, disponibilità dei dati, tempi e strategic fit si selezionano dai menu a tendina, alimentati dal foglio Elenchi.
+**Strumento:** foglio MOA Scoring Calculator, colonne A–L. Pain point, tipo di valore, disponibilità dei dati, tempi e strategic fit si selezionano dai menu a tendina, alimentati dal foglio Elenchi.
 
 ## Controlli di qualità
 
